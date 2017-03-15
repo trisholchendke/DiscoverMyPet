@@ -1,0 +1,387 @@
+[18-Jan-2017 07:12:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home/clickedtech2016/public_html/DiscoverMyPet/application/views/backend/doctor/message.php on line 49
+[18-Jan-2017 07:12:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/clickedtech2016/public_html/DiscoverMyPet/application/views/backend/doctor/message.php on line 49
+[25-Jan-2017 08:14:58 UTC] PHP Fatal error:  Cannot redeclare Crud_model::display_user_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 105
+[25-Jan-2017 08:15:04 UTC] PHP Fatal error:  Cannot redeclare Crud_model::display_user_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 105
+[25-Jan-2017 08:15:09 UTC] PHP Fatal error:  Cannot redeclare Crud_model::display_user_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 105
+[25-Jan-2017 08:15:54 UTC] PHP Fatal error:  Cannot redeclare Crud_model::display_user_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 105
+[25-Jan-2017 08:18:07 UTC] PHP Fatal error:  Cannot redeclare Crud_model::display_user_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 105
+[25-Jan-2017 08:18:08 UTC] PHP Fatal error:  Cannot redeclare Crud_model::display_user_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 105
+[25-Jan-2017 08:18:09 UTC] PHP Fatal error:  Cannot redeclare Crud_model::display_user_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 105
+[25-Jan-2017 08:18:09 UTC] PHP Fatal error:  Cannot redeclare Crud_model::display_user_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 105
+[25-Jan-2017 08:18:24 UTC] PHP Fatal error:  Cannot redeclare Crud_model::display_user_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 105
+[25-Jan-2017 08:19:08 UTC] PHP Parse error:  syntax error, unexpected 'Editing' (T_STRING), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 22
+[25-Jan-2017 08:21:06 UTC] PHP Fatal error:  Cannot redeclare Crud_model::display_user_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 112
+[25-Jan-2017 08:21:41 UTC] PHP Fatal error:  Cannot redeclare Crud_model::update_doctor_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 718
+[25-Jan-2017 08:22:54 UTC] PHP Fatal error:  Call to undefined method Crud_model::display_doctor_user_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 324
+[25-Jan-2017 08:24:15 UTC] PHP Fatal error:  Cannot redeclare Crud_model::update_doctor_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 704
+[25-Jan-2017 08:28:43 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 303
+[25-Jan-2017 10:24:00 UTC] PHP Fatal error:  Call to undefined method Crud_model::save_role_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 245
+[25-Jan-2017 10:27:44 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 303
+[25-Jan-2017 10:33:54 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 303
+[25-Jan-2017 10:37:09 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 303
+[25-Jan-2017 10:43:02 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 303
+[25-Jan-2017 10:54:30 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 243
+[25-Jan-2017 10:54:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 226
+[25-Jan-2017 11:06:16 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 226
+[25-Jan-2017 11:06:46 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 226
+[25-Jan-2017 11:37:19 UTC] PHP Fatal error:  Call to undefined method Crud_model::save_role_info() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 253
+[25-Jan-2017 11:58:29 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 26
+[25-Jan-2017 12:08:28 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 262
+[25-Jan-2017 12:27:41 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 314
+[25-Jan-2017 13:29:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1622
+[25-Jan-2017 14:18:42 UTC] PHP Fatal error:  Call to undefined method Crud_model::save_user_info1() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 253
+[25-Jan-2017 14:52:55 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 315
+[27-Jan-2017 15:58:48 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 315
+[27-Jan-2017 16:01:28 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 315
+[27-Jan-2017 16:02:06 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Admin.php on line 315
+[28-Jan-2017 06:56:31 UTC] PHP Fatal error:  Call to a member function from() on null in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Email_model.php on line 30
+[30-Jan-2017 06:56:42 UTC] PHP Fatal error:  Call to undefined function ptint_r() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 694
+[30-Jan-2017 06:56:59 UTC] PHP Fatal error:  Call to undefined function ptint_r() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 694
+[30-Jan-2017 06:57:01 UTC] PHP Fatal error:  Call to undefined function ptint_r() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 694
+[30-Jan-2017 08:10:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 16
+[30-Jan-2017 08:12:17 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 16
+[30-Jan-2017 08:57:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1513
+[30-Jan-2017 09:01:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1515
+[30-Jan-2017 09:02:15 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1516
+[30-Jan-2017 09:02:36 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1516
+[30-Jan-2017 09:03:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1515
+[30-Jan-2017 09:04:17 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1519
+[30-Jan-2017 09:05:43 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1519
+[30-Jan-2017 09:05:44 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1519
+[30-Jan-2017 10:35:02 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/dashboard.php on line 297
+[30-Jan-2017 10:36:53 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/dashboard.php on line 281
+[30-Jan-2017 10:37:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/dashboard.php on line 281
+[30-Jan-2017 11:05:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/dashboard.php on line 286
+[30-Jan-2017 11:15:11 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/dashboard.php on line 295
+[02-Feb-2017 06:20:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 36
+[02-Feb-2017 06:21:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 36
+[02-Feb-2017 06:21:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 36
+[02-Feb-2017 06:21:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 36
+[02-Feb-2017 06:39:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 43
+[02-Feb-2017 06:39:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 43
+[09-Feb-2017 07:11:59 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2243
+[09-Feb-2017 07:12:13 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2243
+[09-Feb-2017 08:02:27 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1567
+[09-Feb-2017 08:09:43 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1582
+[09-Feb-2017 08:15:04 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1569
+[09-Feb-2017 08:32:23 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1577
+[09-Feb-2017 12:05:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/edit_patient.php on line 95
+[09-Feb-2017 12:06:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/edit_patient.php on line 84
+[09-Feb-2017 13:18:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/view_health_record.php on line 80
+[09-Feb-2017 13:19:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/view_health_record.php on line 80
+[13-Feb-2017 16:55:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/navigation.php on line 30
+[13-Feb-2017 16:59:13 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/navigation.php on line 27
+[14-Feb-2017 07:00:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:00:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:02:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:02:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:02:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:03:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:03:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:03:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:03:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:03:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:03:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:03:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:03:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:03:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:03:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:03:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:04:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:04:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:07:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:12:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 563
+[14-Feb-2017 07:12:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 544
+[14-Feb-2017 07:13:07 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 544
+[14-Feb-2017 07:13:09 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 544
+[14-Feb-2017 07:13:10 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 544
+[14-Feb-2017 07:13:22 UTC] PHP Fatal error:  Call to undefined method Crud_model::count_unread_message_of_thread() in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 34
+[14-Feb-2017 07:14:21 UTC] PHP Fatal error:  Call to undefined method Crud_model::count_unread_message_of_thread() in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 34
+[14-Feb-2017 07:30:55 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/edit_medicine.php on line 2
+[14-Feb-2017 08:21:29 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1894
+[14-Feb-2017 08:22:09 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1894
+[14-Feb-2017 08:23:23 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1894
+[14-Feb-2017 08:23:45 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1894
+[14-Feb-2017 08:23:48 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1894
+[14-Feb-2017 08:23:50 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1894
+[14-Feb-2017 08:24:23 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1894
+[14-Feb-2017 08:24:30 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1894
+[14-Feb-2017 08:24:52 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1894
+[14-Feb-2017 12:46:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 30
+[14-Feb-2017 12:47:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 30
+[14-Feb-2017 12:47:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 30
+[14-Feb-2017 12:47:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 30
+[14-Feb-2017 12:47:14 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 30
+[14-Feb-2017 12:47:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 30
+[14-Feb-2017 14:20:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/patient/show_invoice_details.php on line 35
+[15-Feb-2017 06:25:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1894
+[15-Feb-2017 06:25:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1894
+[15-Feb-2017 06:25:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1894
+[15-Feb-2017 10:20:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 91
+[15-Feb-2017 10:20:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 91
+[15-Feb-2017 10:20:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 91
+[15-Feb-2017 10:21:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 91
+[15-Feb-2017 10:21:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 91
+[15-Feb-2017 10:21:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 91
+[15-Feb-2017 10:21:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 91
+[15-Feb-2017 10:21:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 91
+[15-Feb-2017 10:21:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 91
+[15-Feb-2017 10:26:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 91
+[15-Feb-2017 10:37:43 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/view_health_record.php on line 80
+[15-Feb-2017 12:54:48 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 2169
+[15-Feb-2017 12:54:50 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 2169
+[15-Feb-2017 12:54:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 2169
+[15-Feb-2017 12:54:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 2169
+[15-Feb-2017 12:55:02 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 2169
+[15-Feb-2017 12:55:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 2169
+[15-Feb-2017 12:55:26 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 2169
+[15-Feb-2017 12:55:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 2169
+[15-Feb-2017 12:55:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 2169
+[16-Feb-2017 14:59:34 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 116
+[16-Feb-2017 15:00:06 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 116
+[16-Feb-2017 15:10:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 42
+[16-Feb-2017 15:11:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 42
+[16-Feb-2017 15:23:58 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 57
+[16-Feb-2017 15:24:00 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 57
+[16-Feb-2017 15:24:46 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 57
+[17-Feb-2017 07:59:16 UTC] PHP Fatal error:  Call to undefined function issetof() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2128
+[17-Feb-2017 08:01:10 UTC] PHP Fatal error:  Call to undefined function issetof() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2128
+[17-Feb-2017 09:33:18 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2428
+[17-Feb-2017 09:33:25 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2428
+[17-Feb-2017 09:33:46 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2428
+[17-Feb-2017 09:33:49 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2428
+[17-Feb-2017 10:01:33 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2480
+[17-Feb-2017 10:01:53 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2480
+[17-Feb-2017 10:29:47 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2917
+[17-Feb-2017 10:30:02 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2917
+[17-Feb-2017 10:30:30 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2917
+[17-Feb-2017 10:31:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2482
+[17-Feb-2017 10:32:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2482
+[17-Feb-2017 10:32:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2937
+[17-Feb-2017 10:33:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2476
+[17-Feb-2017 10:33:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2476
+[17-Feb-2017 10:42:19 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2469
+[17-Feb-2017 10:43:24 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2469
+[17-Feb-2017 10:48:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2486
+[17-Feb-2017 10:48:26 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2486
+[17-Feb-2017 10:51:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2499
+[17-Feb-2017 10:51:20 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2499
+[17-Feb-2017 10:56:07 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2495
+[17-Feb-2017 11:23:01 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1621
+[17-Feb-2017 11:23:04 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1621
+[17-Feb-2017 11:23:33 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1621
+[17-Feb-2017 11:23:36 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1621
+[17-Feb-2017 11:25:42 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1621
+[17-Feb-2017 11:47:54 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2927
+[17-Feb-2017 14:10:30 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1800
+[17-Feb-2017 14:10:34 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1800
+[17-Feb-2017 14:15:19 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1808
+[17-Feb-2017 14:15:27 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1808
+[17-Feb-2017 14:15:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1808
+[17-Feb-2017 14:15:44 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1808
+[17-Feb-2017 14:16:21 UTC] PHP Parse error:  syntax error, unexpected 'medicine' (T_STRING), expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1808
+[17-Feb-2017 14:18:13 UTC] PHP Parse error:  syntax error, unexpected 'medicine' (T_STRING), expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1808
+[17-Feb-2017 14:24:22 UTC] PHP Parse error:  syntax error, unexpected 'medicine' (T_STRING), expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1808
+[17-Feb-2017 14:26:58 UTC] PHP Parse error:  syntax error, unexpected 'medicine' (T_STRING), expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1808
+[17-Feb-2017 14:27:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1808
+[17-Feb-2017 14:27:02 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1808
+[17-Feb-2017 14:27:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1808
+[17-Feb-2017 15:33:07 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1824
+[17-Feb-2017 15:33:10 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1824
+[17-Feb-2017 15:33:39 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1824
+[17-Feb-2017 15:33:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1805
+[17-Feb-2017 15:34:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1824
+[17-Feb-2017 15:34:05 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1824
+[17-Feb-2017 15:39:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1821
+[17-Feb-2017 15:39:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1821
+[17-Feb-2017 16:07:10 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1774
+[17-Feb-2017 16:07:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1774
+[18-Feb-2017 07:32:39 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1994
+[18-Feb-2017 07:32:58 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1994
+[18-Feb-2017 07:56:56 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1930
+[18-Feb-2017 07:57:02 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1930
+[18-Feb-2017 07:57:04 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1930
+[18-Feb-2017 07:57:06 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1930
+[18-Feb-2017 07:57:26 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1930
+[18-Feb-2017 07:57:28 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1930
+[18-Feb-2017 07:57:33 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1930
+[18-Feb-2017 07:57:35 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1930
+[18-Feb-2017 08:01:22 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1930
+[18-Feb-2017 08:01:24 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1930
+[18-Feb-2017 08:01:37 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1930
+[18-Feb-2017 08:14:35 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1901
+[18-Feb-2017 08:14:38 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1901
+[18-Feb-2017 08:14:43 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1901
+[18-Feb-2017 08:15:20 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:15:24 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:15:55 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:15:57 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1901
+[18-Feb-2017 08:16:08 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1901
+[18-Feb-2017 08:16:09 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1901
+[18-Feb-2017 08:16:12 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1901
+[18-Feb-2017 08:17:10 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:17:18 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:17:20 UTC] PHP Parse error:  syntax error, unexpected '"array("' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:18:04 UTC] PHP Parse error:  syntax error, unexpected ''array("order" => array(array(' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:18:06 UTC] PHP Parse error:  syntax error, unexpected ''array("order" => array(array(' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:18:08 UTC] PHP Parse error:  syntax error, unexpected ''array("order" => array(array(' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:18:29 UTC] PHP Parse error:  syntax error, unexpected ''array("order" => array(array(' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:18:31 UTC] PHP Parse error:  syntax error, unexpected ''array("order" => array(array(' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:18:47 UTC] PHP Parse error:  syntax error, unexpected ''array("order" => array(array(' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1986
+[18-Feb-2017 08:25:47 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1988
+[18-Feb-2017 08:25:50 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1988
+[18-Feb-2017 08:27:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1988
+[18-Feb-2017 08:27:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1988
+[18-Feb-2017 11:07:52 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:08:26 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:08:30 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:08:32 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:08:34 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:08:35 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:08:37 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:08:41 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:08:49 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:08:52 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:08:52 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:08:53 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:09:30 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:10:43 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:10:48 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[18-Feb-2017 11:11:02 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1968
+[20-Feb-2017 05:29:39 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 23
+[20-Feb-2017 05:30:09 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 23
+[20-Feb-2017 05:59:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 6
+[20-Feb-2017 07:05:36 UTC] PHP Parse error:  syntax error, unexpected '$parameter' (T_VARIABLE) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1995
+[20-Feb-2017 07:05:37 UTC] PHP Parse error:  syntax error, unexpected '$parameter' (T_VARIABLE) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1995
+[20-Feb-2017 07:05:39 UTC] PHP Parse error:  syntax error, unexpected '$parameter' (T_VARIABLE) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1995
+[20-Feb-2017 07:10:31 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1995
+[20-Feb-2017 07:10:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1995
+[20-Feb-2017 07:11:38 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1995
+[20-Feb-2017 07:11:40 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1995
+[20-Feb-2017 07:12:53 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1995
+[20-Feb-2017 10:25:19 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/edit_patient.php on line 117
+[20-Feb-2017 12:28:54 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2013
+[20-Feb-2017 12:28:57 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2013
+[20-Feb-2017 12:28:58 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2013
+[20-Feb-2017 14:20:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/message_new.php on line 57
+[21-Feb-2017 14:12:54 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2572
+[21-Feb-2017 14:13:12 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2572
+[21-Feb-2017 14:13:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2572
+[21-Feb-2017 14:13:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2572
+[21-Feb-2017 14:13:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2572
+[21-Feb-2017 14:13:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2572
+[21-Feb-2017 14:20:08 UTC] PHP Parse error:  syntax error, unexpected '" style="' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2572
+[21-Feb-2017 14:21:18 UTC] PHP Parse error:  syntax error, unexpected '" style="' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2572
+[21-Feb-2017 14:21:19 UTC] PHP Parse error:  syntax error, unexpected '" style="' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2572
+[21-Feb-2017 14:21:50 UTC] PHP Parse error:  syntax error, unexpected '" style="' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2572
+[21-Feb-2017 15:24:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 3076
+[22-Feb-2017 05:29:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2572
+[22-Feb-2017 05:31:22 UTC] PHP Parse error:  syntax error, unexpected 'doctor' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2567
+[22-Feb-2017 05:31:25 UTC] PHP Parse error:  syntax error, unexpected 'doctor' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2567
+[22-Feb-2017 05:31:39 UTC] PHP Parse error:  syntax error, unexpected 'doctor' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2567
+[22-Feb-2017 05:31:40 UTC] PHP Parse error:  syntax error, unexpected 'doctor' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2567
+[22-Feb-2017 05:32:50 UTC] PHP Parse error:  syntax error, unexpected 'doctor' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2567
+[22-Feb-2017 05:33:20 UTC] PHP Parse error:  syntax error, unexpected 'doctor' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2567
+[22-Feb-2017 07:35:42 UTC] PHP Fatal error:  Cannot redeclare Email_model::sendmail_of_appointment() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Email_model.php on line 43
+[22-Feb-2017 07:35:51 UTC] PHP Fatal error:  Cannot redeclare Email_model::sendmail_of_appointment() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Email_model.php on line 43
+[22-Feb-2017 07:36:16 UTC] PHP Fatal error:  Cannot redeclare Email_model::sendmail_of_appointment() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Email_model.php on line 43
+[22-Feb-2017 07:36:18 UTC] PHP Fatal error:  Cannot redeclare Email_model::sendmail_of_appointment() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Email_model.php on line 43
+[22-Feb-2017 07:36:38 UTC] PHP Fatal error:  Cannot redeclare Email_model::sendmail_of_appointment() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Email_model.php on line 43
+[22-Feb-2017 07:36:56 UTC] PHP Fatal error:  Cannot redeclare Email_model::sendmail_of_appointment() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Email_model.php on line 43
+[22-Feb-2017 07:36:59 UTC] PHP Fatal error:  Cannot redeclare Email_model::sendmail_of_appointment() in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Email_model.php on line 43
+[22-Feb-2017 09:53:34 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 145
+[22-Feb-2017 09:53:48 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 145
+[22-Feb-2017 09:53:49 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 145
+[22-Feb-2017 09:54:08 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 146
+[22-Feb-2017 09:54:09 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 146
+[22-Feb-2017 09:54:12 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 146
+[22-Feb-2017 09:54:46 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 145
+[22-Feb-2017 09:54:48 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 145
+[22-Feb-2017 10:28:22 UTC] PHP Parse error:  syntax error, unexpected ''.'' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 147
+[22-Feb-2017 10:28:24 UTC] PHP Parse error:  syntax error, unexpected ''.'' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 147
+[22-Feb-2017 10:29:02 UTC] PHP Parse error:  syntax error, unexpected ''.'' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 147
+[22-Feb-2017 10:29:06 UTC] PHP Parse error:  syntax error, unexpected ''.'' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 147
+[22-Feb-2017 10:29:09 UTC] PHP Parse error:  syntax error, unexpected ''.'' (T_CONSTANT_ENCAPSED_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 147
+[22-Feb-2017 15:59:10 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::sh() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 239
+[22-Feb-2017 15:59:10 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::sh() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 239
+[22-Feb-2017 15:59:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::sh() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 239
+[22-Feb-2017 15:59:24 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::shedul() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 239
+[22-Feb-2017 15:59:26 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::shedul() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 239
+[22-Feb-2017 15:59:35 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::shedul() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 239
+[22-Feb-2017 15:59:51 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::shedul() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 239
+[22-Feb-2017 10:41:03 UTC] PHP Parse error:  syntax error, unexpected 'html' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2533
+[22-Feb-2017 10:41:05 UTC] PHP Parse error:  syntax error, unexpected 'html' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2533
+[22-Feb-2017 10:41:36 UTC] PHP Parse error:  syntax error, unexpected 'html' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2533
+[22-Feb-2017 10:42:25 UTC] PHP Parse error:  syntax error, unexpected 'html' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2533
+[22-Feb-2017 10:42:56 UTC] PHP Parse error:  syntax error, unexpected 'html' (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2533
+[22-Feb-2017 13:40:07 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/show_prescription.php on line 52
+[22-Feb-2017 13:40:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/show_prescription.php on line 52
+[22-Feb-2017 13:40:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/show_prescription.php on line 52
+[22-Feb-2017 13:40:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/show_prescription.php on line 52
+[23-Feb-2017 10:58:43 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 51
+[23-Feb-2017 11:20:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::shedule_of_the_day() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 263
+[23-Feb-2017 11:21:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::shedule_of_the_day() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 263
+[23-Feb-2017 11:21:05 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::shedule_of_the_day() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 263
+[23-Feb-2017 11:22:19 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::shedule_of_the_day() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 263
+[23-Feb-2017 11:22:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::shedule_of_the_day() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 263
+[23-Feb-2017 11:22:55 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email_model::shedule_of_the_day() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 263
+[23-Feb-2017 06:23:55 UTC] PHP Fatal error:  Call to undefined method Email_model::pet_add_sucessfully() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2692
+[23-Feb-2017 12:04:29 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 51
+[23-Feb-2017 12:04:40 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 51
+[23-Feb-2017 12:04:44 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 51
+[23-Feb-2017 12:05:27 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 51
+[23-Feb-2017 07:23:25 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1994
+[23-Feb-2017 07:23:50 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1994
+[23-Feb-2017 07:24:00 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1994
+[23-Feb-2017 07:31:58 UTC] PHP Fatal error:  Call to undefined method Email_model::pet_add_sucessfully() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2447
+[23-Feb-2017 10:44:55 UTC] PHP Fatal error:  Call to undefined method Email_model::pet_add_sucessfully() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2454
+[23-Feb-2017 10:46:26 UTC] PHP Fatal error:  Call to undefined method Email_model::pet_add_sucessfully() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2454
+[23-Feb-2017 10:51:35 UTC] PHP Fatal error:  Call to undefined method Email_model::pet_add_sucessfully() in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2454
+[23-Feb-2017 13:37:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Cron_job.php on line 8
+[23-Feb-2017 14:40:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Cron_job.php on line 9
+[23-Feb-2017 14:40:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Cron_job.php on line 9
+[24-Feb-2017 09:42:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/staff_message_new.php on line 59
+[24-Feb-2017 09:42:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/staff_message_new.php on line 59
+[24-Feb-2017 14:50:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/staff_message_new.php on line 59
+[25-Feb-2017 06:02:52 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2646
+[25-Feb-2017 06:03:10 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 2646
+[25-Feb-2017 07:27:14 UTC] PHP Parse error:  syntax error, unexpected 'name' (T_STRING), expecting ']' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1656
+[25-Feb-2017 07:27:17 UTC] PHP Parse error:  syntax error, unexpected 'name' (T_STRING), expecting ']' in /home/solutionner2017/public_html/DiscoverMyPet/application/controllers/Doctor.php on line 1656
+[27-Feb-2017 10:02:00 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting identifier (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/add_medicine.php on line 50
+[27-Feb-2017 10:02:16 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting identifier (T_STRING) in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/add_medicine.php on line 50
+[02-Mar-2017 05:37:45 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/solutionner2017/public_html/DiscoverMyPet/system/libraries/Session/drivers/Session_database_driver.php on line 326
+[02-Mar-2017 05:37:45 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/solutionner2017/public_html/DiscoverMyPet/system/libraries/Session/drivers/Session_database_driver.php on line 326
+[02-Mar-2017 05:37:45 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/solutionner2017/public_html/DiscoverMyPet/system/libraries/Session/drivers/Session_database_driver.php on line 326
+[02-Mar-2017 06:42:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 38
+[02-Mar-2017 06:42:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 38
+[02-Mar-2017 06:42:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 38
+[02-Mar-2017 06:43:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 38
+[02-Mar-2017 06:43:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 38
+[02-Mar-2017 06:43:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 38
+[02-Mar-2017 06:43:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 38
+[02-Mar-2017 06:43:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 38
+[02-Mar-2017 06:43:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 38
+[02-Mar-2017 06:43:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 38
+[02-Mar-2017 06:49:19 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 20
+[02-Mar-2017 06:49:22 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/manage_medicine_category.php on line 20
+[03-Mar-2017 09:24:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:24:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:25:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:27:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:29:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1345
+[03-Mar-2017 09:29:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1344
+[03-Mar-2017 09:29:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/models/Crud_model.php on line 1344
+[03-Mar-2017 10:03:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/header.php on line 33
+[07-Mar-2017 08:09:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/navigation.php on line 280
+[07-Mar-2017 13:23:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solutionner2017/public_html/DiscoverMyPet/application/views/backend/doctor/message_read.php on line 24
